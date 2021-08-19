@@ -30,7 +30,7 @@ function checkBirthdateIsLucky() {
       output.innerText = "Damn Lucky!🥳";
     } else {
       output.innerText =
-        "O oo!, We aren't Google Pay but Better luck next in next birth!😭";
+        "O oo!, We aren't Google Pay but Better luck in next birth!😭";
     }
   } else {
     output.innerText = "Please enter your Lucky Number";
